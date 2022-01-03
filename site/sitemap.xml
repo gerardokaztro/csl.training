@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://csl.training/</loc>
+         <lastmod>2022-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://csl.training/awssecurity-specialty/upgrade/</loc>
+         <lastmod>2022-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://csl.training/cybersecurity-program/upgrade/</loc>
+         <lastmod>2022-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
